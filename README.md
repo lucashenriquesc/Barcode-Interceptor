@@ -14,7 +14,7 @@ Abra o arquivo barcodes.txt e adicione os códigos de barras que deseja substitu
 
 Adicionar somente um código de barras, um código para substituí-lo e o nome do item que está sendo bipado POR LINHA, separados por virgula, no seguinte formato:
 ```
-CódigoDeBarras, NovoCódigo, NomeDaItem
+CódigoDeBarras, NovoCódigo, NomeDoItem
 ```
 
 No arquivo keys.txt, pode-se adicionar teclas para "resetar" a variável que armazena o código de barras, para evitar que entradas do usuário sejam interpretadas como códigos de barras em momentos indesejados.
