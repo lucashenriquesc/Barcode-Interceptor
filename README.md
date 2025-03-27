@@ -13,7 +13,7 @@ pip install mouse
 Abra o arquivo barcodes.txt e adicione os códigos de barras que deseja substituir, e o código pelo qual será substituído.
 
 Adicionar somente um código de barras e um código para substituí-lo POR LINHA, separados por virgula, no seguinte formato:
-
 CódigoDeBarras, NovoCódigo
+
 
 No arquivo keys.txt, pode-se adicionar teclas para "resetar" a variável que armazena o código de barras, para evitar que entradas do usuário sejam interpretadas como códigos de barras em momentos indesejados.
